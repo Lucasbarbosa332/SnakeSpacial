@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <link rel="apple-touch-icon" href="/img/Snakespace.png">
+    <!-- Adicione o ícone para Android -->
+    <link rel="icon" type="image/png" href="/img/Snakespace.png">
+    <link rel="stylesheet" href="/nivel2/nv.css">
+</head>
+<body>
+    <div class="game-container">
+        <canvas id="gameCanvas" width="400" height="400"></canvas>
+    </div>
+
+    <audio id="bgMusic" loop>
+        <source src="/img2/Áudio do WhatsApp de 2024-04-27 à(s) 04.31.53_bcbdef66.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    
+    <div id="score">Score: 0</div>
+    <div id="nameInputContainer" style="display: none;">
+        <input type="text" id="nameInput" placeholder="Enter your name">
+        <button id="saveScoreButton">Save Score</button>
+    </div>
+    <button id="startButton">Start Game</button>
+    <button id="restartButton">Restart Game</button>
+    <button id="level2Button" style="display: none;">
+        <a href="/index.html">Nível 2</a>
+        
+    </button>
+    <div id="nextLevelMessage" style="position: fixed; top: 20px; right: 20px; color: white;">Faça 300 pontos para ir para o próximo nível</div>
+
+    <div id="leaderboardContainer">
+        <h2>Leaderboard</h2>
+        <table id="leaderboardTable">
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Name</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody id="leaderboardBody">
+                <!-- Os registros do leaderboard serão adicionados aqui dinamicamente -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="/nivel2/nv.js"></script>
+</body>
+</html>

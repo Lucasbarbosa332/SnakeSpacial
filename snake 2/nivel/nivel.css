@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('/img/leaf.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* Para cobrir toda a tela */
+    margin: 0;
+    padding: 0;
+}
+
+
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+canvas {
+    border: 1px solid #f4ecec;
+    background-image: url('/img/water-life.gif');
+}
+
+#score {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+#nameInputContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#nameInput {
+    padding: 8px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#score {
+    margin-top: 20px;
+    font-size: 24px;
+    color: rgb(255, 255, 255); /* Defina a cor desejada aqui */
+}
+
+
+
+#saveScoreButton {
+    padding: 8px 20px;
+    font-size: 16px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+}
+
+#saveScoreButton:hover {
+    background-color: #ececec;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #0a0e90;
+    color: rgb(226, 226, 226);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #58048c;
+}
+
+#leaderboardContainer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#leaderboardTable {
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+}
+
+#leaderboardTable th, #leaderboardTable td {
+    border: 1px solid #fef3f3;
+    padding: 8px;
+}
+
+#leaderboardTable th {
+    background-color: #6e069f;
+    color: rgb(198, 191, 191);
+}
+
+#leaderboardTable tr:nth-child(even) {
+    background-color: #faeeee;
+}
+
+#leaderboardTable tr:hover {
+    background-color: #ededed;
+}
+#leaderboardContainer h2 {
+    color: white; /* Define a cor do texto como branco */
+}
+
+#leaderboardTable th, #leaderboardTable td {
+    border: 1px solid #050505;
+    padding: 8px;
+    color: white; /* Define a cor do texto como branco */
+}
+#level2Button a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #0a0e90;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
