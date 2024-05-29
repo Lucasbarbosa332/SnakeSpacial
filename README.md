@@ -36,7 +36,7 @@
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
-[$.I.E.F](https://sief-integrated-financial-education.netlify.app/)
+[SnakeSpace](https://spacesnake.netlify.app/)
 
 
 <br/>
