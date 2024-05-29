@@ -3,9 +3,9 @@
 
 ## Lucas barbosa
  
-<h3 align='center'> 💲 Vamos nos diverti com o jogo fa cobrinha pelo espaço ? </h3>
+<h3 align='center'> 🐍 Vamos nos diverti com o jogo fa cobrinha pelo espaço ? </h3>
 
-## 💲 Contexto
+## 🐍 Contexto
 
 ** Um jogo em pixel da cobrinha em diferentes cenarios e niveis de jogo com uma boa musica relaxante de fundo, otimo paea se divereti com sistema de pontuação e raking  
 <br/>
