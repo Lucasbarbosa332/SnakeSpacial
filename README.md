@@ -24,6 +24,7 @@
   <img src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge' />
   <img src='https://img.shields.io/badge/css-blue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/html-orange?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/Git-black?style=for-the-badge' />
 </p>
 
 <br/>
