@@ -10,7 +10,7 @@
 ** Um jogo em pixel da cobrinha em diferentes cenarios e niveis de jogo com uma boa musica relaxante de fundo, otimo paea se divereti com sistema de pontuação e raking  
 <br/>
 
-<img width=100% src="https://github.com/Lucasbarbosa332/SnakeSpacial/blob/main/snake%202/SnakeSpacial/V%C3%ADdeo%20do%20WhatsApp%20de%202024-05-29%20%C3%A0(s)%2001.32.11_dbab9c9e.mp4"></img>
+<img width=100% src="Captura de tela_29-5-2024_13810_spacesnake.netlify.app.jpeg"></img>
 
 <br/>
 
