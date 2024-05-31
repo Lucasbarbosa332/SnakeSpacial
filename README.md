@@ -3,7 +3,7 @@
 
 ## Lucas barbosa
  
-<h3 align='center'> 🐍 Vamos nos diverti com o jogo fa cobrinha pelo espaço ? </h3>
+<h3 align='center'> 🐍 Vamos nos diverti com o jogo da cobrinha pelo espaço ? </h3>
 
 ## 🐍 Contexto
 
